@@ -1,0 +1,1 @@
+FROM ericssonkubernetes/jupyterlab_ext:version5
